@@ -1,0 +1,10 @@
+{
+  "name": "Auto-Tpaccept",
+  "description": "Nimmt TPA-Anfragen von Whitelist-Spielern automatisch an.",
+  "author": "ClapByMarlon",
+  "uuid": "%uuid%",
+  "mainClass": "de.clapbymarlon.autotpa.AutoTpaAddon",
+  "version": 1,
+  "category": 2,
+  "icon": "https://raw.githubusercontent.com/ClapByMarlon/Auto-Tpaccept/main/Auto-Tpaccept.png"
+}
