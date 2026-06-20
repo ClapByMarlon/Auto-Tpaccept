@@ -10,7 +10,7 @@ Ein LabyMod 3 Addon für Minecraft 1.8.9.
 - Nimmt nur Anfragen von Spielern auf der Whitelist an
 - Delay ist einstellbar
 - Spieler können in den LabyMod Addon-Einstellungen hinzugefügt und entfernt werden
-- Pro Spieler kann TPA und TPAHere einzeln erlaubt oder deaktiviert werden
+- Pro Spieler kann TPA und TPAHere einzeln aktiviert oder deaktiviert werden
 
 ## Installation
 
