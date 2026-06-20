@@ -8,7 +8,6 @@ Ein LabyMod 3 Addon für Minecraft 1.8.9.
 
 - Erkennt TPA- und TPAHere-Anfragen im Chat
 - Nimmt nur Anfragen von Spielern auf der Whitelist an
-- Sendet automatisch `/tpaccept`
 - Delay ist einstellbar
 - Spieler können in den LabyMod Addon-Einstellungen hinzugefügt und entfernt werden
 - Pro Spieler kann TPA und TPAHere einzeln erlaubt oder deaktiviert werden
